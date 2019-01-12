@@ -3,8 +3,8 @@ title: Sankho Roy's webpage
 subtitle: by Sankho Roy
 email: sankhoroy@gmail.com
 description: This background picture is from a beautiful place near Darjeeling,<br /> near the place where I live.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: sankhoroy.github.io"# the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "sankhoroy.github.io"# the base hostname & protocol for your site
 author: Sankho Roy
 # street_address: 
 city: Bangalore
