@@ -1,0 +1,31 @@
+# site settings
+title: Sankho Roy's webpage
+subtitle: by Sankho Roy
+email: sankhoroy@gmail.com
+description: This background picture is from a beautiful place near Darjeeling,<br /> near the place where I live.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: sankhoroy.github.io"# the base hostname & protocol for your site
+author: Sankho Roy
+# street_address: 
+city: Bangalore
+state: Karnataka
+# zip_code: 55555
+country: India
+phone: +91 7577 082 257
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+
+github_url: https://github.com/sankhoroy
+
+linkedin_url: https://in.linkedin.com/in/sankho-roy-bb8b1981
+
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
