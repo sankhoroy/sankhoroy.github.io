@@ -3,7 +3,7 @@ layout: post
 title: Neural Turing Machine
 description: NTM large scale parenthesis matcher
 image: assets/images/ntm_clr_invert.png
-redirect_url: https://github.com/sankhoroy/Neural-Turing-Machine
+redirect_url: https://github.com/sankhoroy/Neural-Turing-Machine/blob/master/NTM%20large%20scale%20parenthesis%20matcher.ipynb
 ---
 
 # Neural Network learns parenthesis matching problem
