@@ -3,7 +3,7 @@ layout: post
 title: Reinforcement Learning
 description: Basic Q Learning
 image: assets/images/q-learning.png
-redirect_url: https://github.com/sankhoroy/Q-Learinng
+redirect_url: https://github.com/sankhoroy/Q-Learinng/blob/master/Q-Learning%20solves%20maze.ipynb
 ---
 
 # Maze finding problem solved with Q-Learning (RL)
